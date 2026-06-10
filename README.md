@@ -1,4 +1,4 @@
-<img width="1600" height="1064" alt="image" src="https://github.com/user-attachments/assets/5e3b401a-c483-4444-b38d-196a6fdc4d55" /># 📊 Adidas US Interactive Dashboard
+ /># 📊 Adidas US Interactive Dashboard
 
 A comprehensive Business Intelligence dashboard designed to analyze and optimize Adidas sales performance, product profitability, and regional trends across key territories.
 
